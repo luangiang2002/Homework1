@@ -1,0 +1,204 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+@font-face {
+    font-family: SFMono;
+    src: url(font/SFMonoLight.otf);
+}
+
+@font-face {
+    font-family: NewYorkExtra;
+    src: url(font/NewYorkExtraLargeRegular.otf);
+}
+
+@font-face {
+    font-family: NewYorkSmall;
+    src: url(font/FontsFree-Net-NewYorkSmallRegularItalic.ttf);
+}
+
+@font-face {
+    font-family: SFProText;
+    src: url(font/SFProText-Light-1.ttf);
+}
+
+@font-face {
+    font-family: SFProDisplay;
+    src: url(font/SFPRODISPLAYREGULAR.OTF);
+}
+
+header {
+    background-color: #FFD900;
+    height: 350px;
+
+}
+
+header p {
+    width: 322px;
+    height: 24px;
+    font-family: SFMono;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    margin-left: 140px;
+    padding-top: 65px;
+}
+
+header h1 {
+    width: 829px;
+    height: 239px;
+    font-family: NewYorkExtra;
+    font-weight: 700;
+    font-size: 200px;
+    margin-left: 131px;
+    line-height: 239px;
+}
+
+.home-page {
+    margin-bottom: 302px;
+}
+
+.home-page .title {
+    width: 523px;
+    height: 53px;
+    margin-top: calc(453px - 350px);
+    font-family: NewYorkExtra;
+    font-weight: 700;
+    font-size: 44px;
+    line-height: 53px;
+    margin-left: 131px;
+
+}
+
+.home-page .content .content-title {
+    width: 923px;
+    margin-top: 26px;
+    font-family: SFProText;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    margin-left: 29px;
+}
+
+.home-page .content {
+    border-left: 6px solid black;
+    margin-left: 134px;
+}
+
+.home-page .content img {
+    width: 333.88px;
+    height: 50.22px;
+}
+
+.home-page .content .content-link {
+    width: 884px;
+    height: 48px;
+    font-family: SFProText;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    margin-left: 29px;
+    margin-top: 26px;
+}
+
+.home-page .content .content-site {
+    width: 791px;
+    height: 72px;
+    font-family: SFProText;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    margin-left: 29px;
+    margin-top: 24px;
+}
+
+.home-page .content .img-gtf {
+    width: 333.88px;
+    height: 50.22px;
+    margin-top: 59px;
+}
+
+.home-page .content .img-mackay {
+    width: 382.35px;
+    height: 48.06px;
+    margin-top: 52px;
+}
+
+.home-page .content .img-harriet {
+    width: 302.91px;
+    height: 40.9px;
+    margin-top: 61px;
+}
+
+.home-page .content .img-bassic {
+    width: 493.82px;
+    height: 49.57px;
+    margin-top: 57px;
+}
+
+.home-page .content .img-mokia {
+    width: 681.75px;
+    height: 47.25px;
+    margin-top: 54px;
+}
+
+.home-page .content .p-gtf {
+    width: 656px;
+    height: 48px;
+    margin-top: 12px;
+    font-family: SFProText;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+
+}
+
+.home-page .content .p-mackay {
+    width: 678px;
+    height: 48px;
+    margin-top: 15px;
+    font-family: SFProText;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+}
+
+.home-page .content .p-harriet {
+    width: 532px;
+    height: 48px;
+    margin-top: 30px;
+    font-family: SFProText;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+}
+
+.home-page .content .p-bassic {
+    width: 830px;
+    height: 48px;
+    margin-top: 19px;
+    font-family: SFProText;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+}
+
+.home-page .content .p-nokia {
+    width: 884px;
+    height: 48px;
+    margin-top: 29px;
+    font-family:SFProText;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+}
+.home-page .content .conten-img-p{
+    margin-left: 29px;
+}
