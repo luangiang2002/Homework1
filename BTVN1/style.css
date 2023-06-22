@@ -42,7 +42,7 @@ a {
 .header {
     height: 133px;
     max-width: 1440px;
-    margin: 0 auto 52px;
+    margin: 0 auto;
     display: flex;
     justify-content: space-between;
     line-height: 133px;
